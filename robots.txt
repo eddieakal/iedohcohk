@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oceurienge.trakumas.lt/sitemap.xml
